@@ -20,7 +20,7 @@ function doIt() {
       limechat_theme_directory="${HOME}/Library/Application Support/LimeChat/Themes"
   fi
   rsync --exclude ".git/" --exclude ".DS_Store" --exclude "bootstrap.sh" --exclude "readme.md" -av . "$limechat_theme_directory"
-  echo "Wookielight theme successfully installed!"
+  echo "Seaside theme successfully installed!"
 }
 
 if [ "$1" == "--force" -o "$1" == "-f" ]; then

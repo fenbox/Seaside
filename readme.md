@@ -1,6 +1,6 @@
-# Wookielight
+# Seaside
 
-A [LimeChat](http://limechat.net/mac/) theme. Each user is assigned one of 16 unqiue colors.
+A [LimeChat](http://limechat.net/mac/) theme based on [Wookielight](https://github.com/wookiehangover/wookielight). Each user is assigned one of 16 unqiue colors.
 
 ## Installation
 
@@ -16,4 +16,4 @@ Support/Limechat/Themes`.
 
 ## This is what it looks like
 
-![Preview image](http://cl.ly/372g261U3D170u240i2k/Screen%20Shot%202012-06-24%20at%207.06.30%20PM.png)
+![Preview image](http://i.imgur.com/wH8zt90.png)
