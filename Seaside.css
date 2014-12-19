@@ -170,7 +170,7 @@ body.normal .line[highlight=true] > .sender[type=normal]:after {
 }
 
 body.normal .sender[type=myself]:after {
-    content: " ∴";
+    content: " ★";
     color: #A1F43D;
 }
 
